@@ -5,5 +5,7 @@ This repository contains python script that detects Pedestrians on road using YO
 
 
 
-[https://github.com/user-attachments/assets/c3f16f12-4d68-4511-92c6-fb1fec805c2c
-](url)
+
+
+https://github.com/user-attachments/assets/f0539401-1413-415c-ab25-a48dbffa0120
+
